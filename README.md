@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZivaiSinemani
 - 👀 I’m interested in Blockchain Technology and FinTech.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any crypto exchange or 
+- 🌱 I’m currently learning Java and Solidity...
+- 💞️ I’m looking to collaborate on any crypto exchange. 
 - 📫 How to reach me : email:zs359@drexel.edu
 
 <!---
